@@ -1,0 +1,27 @@
+.contact
+{
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.1em;
+    /* padding: 80px 0px 60px 0px; */
+}
+.subcontact
+{
+    font-size: 16px;
+    line-height: 1.5em;
+    /* padding: 0px 0px 0px 0px;  */
+}
+.contact_info
+{
+    font-size: 16px;
+    line-height: 1.5em;
+    /* padding: 30px 0px 0px 0px; */
+}
+.mb-3
+{
+    /* padding: 30px 0px 0px 0px; */
+}
+.ioo
+{
+    background: rgb(241, 243, 246);
+}

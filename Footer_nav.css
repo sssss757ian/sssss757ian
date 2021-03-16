@@ -1,0 +1,39 @@
+/* 頁尾和選單CSS */
+footer
+{
+    background:white;
+    padding: 50px 0px 5px 0px;
+    text-align: center;
+}
+.social_icon
+{
+    margin: 0px 20px 0px 20px;
+}
+.navbar 
+{
+    background: white;
+}
+.nav-link
+{
+    text-decoration: none;
+}
+.nav_title
+{
+    color:#C0C0C0;
+    font-family:"Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
+}
+.navbar-brand
+{
+    padding-left: 20px;
+    font-size: 40px;
+}
+.nav-item
+{
+    line-height:50px;
+    padding-right:50px;
+}
+.NavText
+{
+    color:#C0C0C0;
+    font-family:"Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
+}

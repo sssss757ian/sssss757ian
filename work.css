@@ -1,0 +1,35 @@
+.img_content
+{
+    text-align: center;
+}
+.img_content .card-title
+{
+    font-size: 40px;
+}
+.img_content .view_btn
+{
+    color: white;
+    font-family:"Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
+    text-decoration: none;
+}
+.img_content .card
+{
+    margin-top: 30px;
+    margin-bottom:20px;
+}
+.title
+{
+    margin-top:100px;
+    text-align: center;
+}
+.text
+{
+    color: #c0c0c0;
+    font-size:40px;
+    line-height: 1.2em;
+    font-family:"Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
+}
+.card-title
+{
+    font-family:"Noto Sans CJK TC", "Microsoft JhengHei", PingFang, STHeiti, sans-serif, serif;
+}
